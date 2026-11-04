@@ -1,0 +1,10 @@
+import{_ as s,o as i,c as n,ag as o,j as e,a as t}from"./chunks/framework.BIas3y6W.js";const g=JSON.parse('{"title":"Home Page (weeks 1–4)","description":"","frontmatter":{"source":"projects/home-page.md"},"headers":[],"relativePath":"projects/home-page.md","filePath":"projects/home-page.md"}'),r={name:"projects/home-page.md"};function l(h,a,d,c,p,u){return i(),n("div",null,[...a[0]||(a[0]=[o("",22),e("figure",{class:"ascii-diagram",role:"img","aria-label":"Text diagram: [username].github.io/; index.html your page (weeks 1–2); PROMPTS.md how you used AI, one section per week; prompt-makeover.md week 4 homework; package.json tells Node what `npm test` runs (week 4); game/; index.html your game (weeks 3–4); logic.js the function your tests check (week 4); tests/; logic.test.js your first automated tests (week 4)"},[e("div",{class:"language-text vp-adaptive-theme"},[e("button",{title:"Copy Code",class:"copy"}),e("span",{class:"lang"},"text"),e("pre",{class:"shiki shiki-themes github-light github-dark vp-code",tabindex:"0"},[e("code",null,[e("span",{class:"line"},[e("span",null,"[username].github.io/")]),t(`
+`),e("span",{class:"line"},[e("span",null,"├── index.html            ← your page (weeks 1–2)")]),t(`
+`),e("span",{class:"line"},[e("span",null,"├── PROMPTS.md            ← how you used AI, one section per week")]),t(`
+`),e("span",{class:"line"},[e("span",null,"├── prompt-makeover.md    ← week 4 homework")]),t(`
+`),e("span",{class:"line"},[e("span",null,"├── package.json          ← tells Node what `npm test` runs (week 4)")]),t(`
+`),e("span",{class:"line"},[e("span",null,"├── game/")]),t(`
+`),e("span",{class:"line"},[e("span",null,"│   ├── index.html        ← your game (weeks 3–4)")]),t(`
+`),e("span",{class:"line"},[e("span",null,"│   └── logic.js          ← the function your tests check (week 4)")]),t(`
+`),e("span",{class:"line"},[e("span",null,"└── tests/")]),t(`
+`),e("span",{class:"line"},[e("span",null,"    └── logic.test.js     ← your first automated tests (week 4)")])])])])],-1),o("",11)])])}const w=s(r,[["render",l]]);export{g as __pageData,w as default};
