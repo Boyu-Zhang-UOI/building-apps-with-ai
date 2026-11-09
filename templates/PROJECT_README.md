@@ -2,7 +2,7 @@
 
 > One sentence: what it does and who it is for.
 
-**Live site (production URL):** [https://…] · **Demo video:** [link] · **Author:** [your GitHub username; your real name is optional]
+**Live site (production URL):** [https://…] · **Author:** [your GitHub username; your real name is optional]
 
 <!-- Required: a screenshot of the live site. Save it as docs/screenshot.png, describe what it shows
 in the alt text, then delete these comment markers.

@@ -1,6 +1,6 @@
 # SECURITY_CHECKLIST.md
 
-> Complete this in the week 14 security sweep, and again in week 15's final security pass, before the Project Fair.
+> Complete this in the week 14 security sweep, and again in week 15's final security pass, before you submit the capstone.
 > For each item, tick it **and** write one line of evidence: a command's output, a file name, a screenshot link (check first that the screenshot shows no keys).
 > AI models write insecure code about 45% of the time in independent tests, and newer models have not improved. Passing tests is not a security check: checking is your job.
 > Replace every [square-bracket placeholder].
